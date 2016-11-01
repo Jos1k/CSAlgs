@@ -1,0 +1,11 @@
+D:\Development\CSAlgs\Sorting\InsertingSorting\InsertingSorting\obj\Debug\InsertingSorting.exe
+D:\Development\CSAlgs\Sorting\InsertingSorting\InsertingSorting\obj\Debug\InsertingSorting.pdb
+D:\Development\CSAlgs\Sorting\InsertingSorting\InsertingSorting\bin\Debug\InsertingSorting.exe.config
+D:\Development\CSAlgs\Sorting\InsertingSorting\InsertingSorting\bin\Debug\InsertingSorting.exe
+D:\Development\CSAlgs\Sorting\InsertingSorting\InsertingSorting\bin\Debug\InsertingSorting.pdb
+D:\Development\CSAlgs\Sorting\Sorting\bin\Debug\InsertingSorting.exe.config
+D:\Development\CSAlgs\Sorting\Sorting\obj\Debug\InsertingSorting.exe
+D:\Development\CSAlgs\Sorting\Sorting\obj\Debug\InsertingSorting.pdb
+D:\Development\CSAlgs\Sorting\Sorting\bin\Debug\InsertingSorting.exe
+D:\Development\CSAlgs\Sorting\Sorting\bin\Debug\InsertingSorting.pdb
+D:\Development\CSAlgs\Sorting\Sorting\obj\Debug\Sorting.csprojResolveAssemblyReference.cache

@@ -42,9 +42,10 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Extensions.cs" />
-    <Compile Include="InsertingSorting.cs" />
+    <Compile Include="Algorithms\InsertingSorting.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Algorithms\ShellSorting.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
