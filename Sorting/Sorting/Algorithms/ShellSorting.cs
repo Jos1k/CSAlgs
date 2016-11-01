@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Sorting.Algorithms {
 
-	public class ShellSorting {
+	public class ShellSort {
 		public static int[] Sort( int[] inputArray ) {
 			int[] sortedArray = (int[])inputArray.Clone();
 

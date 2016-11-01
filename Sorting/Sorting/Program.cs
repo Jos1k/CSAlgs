@@ -15,8 +15,10 @@ namespace Sorting {
 				inputArray.ArrayToString()
 			);
 
-			Console.WriteLine( "Inserting sorting: {0} \n", InsertingSorting .Sort( inputArray ).ArrayToString());
-			Console.WriteLine( "Shell sorting: {0} \n", ShellSorting.Sort( inputArray ).ArrayToString() );
+			Console.WriteLine( "Inserting sort: {0} \n", InsertingSort .Sort( inputArray ).ArrayToString());
+			Console.WriteLine( "Shell sort: {0} \n", ShellSort.Sort( inputArray ).ArrayToString() );
+			Console.WriteLine( "Quick sort: {0} \n", QuickSort.Sort( inputArray ).ArrayToString() );
+
 			
 			Console.ReadKey();
 		}

@@ -7,8 +7,8 @@
     <ProjectGuid>{118B7742-2532-4147-8D63-B0BB6A83220E}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>InsertingSorting</RootNamespace>
-    <AssemblyName>InsertingSorting</AssemblyName>
+    <RootNamespace>Sorting</RootNamespace>
+    <AssemblyName>Sorting</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
@@ -41,6 +41,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Algorithms\QuickSort.cs" />
     <Compile Include="Extensions.cs" />
     <Compile Include="Algorithms\InsertingSorting.cs" />
     <Compile Include="Program.cs" />

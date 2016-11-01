@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Sorting.Algorithms {
 
-	public class InsertingSorting {
+	public class InsertingSort {
 
 		public static int[] Sort( int[] inputArray ) {
 			if (inputArray.Length < 2){
