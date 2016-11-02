@@ -1,11 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using Sorting;
-
-namespace Sorting.Algorithms {
+﻿namespace Sorting.Algorithms {
 	public class QuickSort {
 		public static int[] Sort( int[] inputArray ) {
 			int[] sortedArray = (int[])inputArray.Clone();

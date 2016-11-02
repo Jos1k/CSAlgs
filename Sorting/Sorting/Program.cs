@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using Sorting.Algorithms;
 
 namespace Sorting {
@@ -18,7 +14,7 @@ namespace Sorting {
 			Console.WriteLine( "Inserting sort: {0} \n", InsertingSort .Sort( inputArray ).ArrayToString());
 			Console.WriteLine( "Shell sort: {0} \n", ShellSort.Sort( inputArray ).ArrayToString() );
 			Console.WriteLine( "Quick sort: {0} \n", QuickSort.Sort( inputArray ).ArrayToString() );
-
+            Console.WriteLine( "Merge sort: {0} \n", MergeSort.Sort( inputArray ).ArrayToString() );
 			
 			Console.ReadKey();
 		}
