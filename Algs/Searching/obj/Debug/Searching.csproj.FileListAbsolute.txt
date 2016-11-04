@@ -1,5 +1,0 @@
-C:\D_Disk\projects\CSAlgs\Algs\Searching\bin\Debug\Searching.dll
-C:\D_Disk\projects\CSAlgs\Algs\Searching\bin\Debug\Searching.pdb
-C:\D_Disk\projects\CSAlgs\Algs\Searching\obj\Debug\Searching.csprojResolveAssemblyReference.cache
-C:\D_Disk\projects\CSAlgs\Algs\Searching\obj\Debug\Searching.dll
-C:\D_Disk\projects\CSAlgs\Algs\Searching\obj\Debug\Searching.pdb

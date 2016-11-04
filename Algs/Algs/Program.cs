@@ -1,4 +1,5 @@
 ﻿using System;
+using Misc;
 using Searching.Algorithms;
 using Sorting.Algorithms;
 
@@ -23,7 +24,27 @@ namespace Algs
 
             int[] sortedArray = QuickSort.Sort(inputArray);
 
-            Console.WriteLine("Index of element 8 is: {0}", BinarySearch.Find(sortedArray, 8));
+            Console.WriteLine("Index of element 8 is: {0} \n", BinarySearch.Find(sortedArray, 8));
+
+            Console.WriteLine("- - - - - - - - - - - - - - -- - - - - Queue from 2 stacks - - - - - - - - - - - - -- - ");
+            QueueFromTwoStacks queue = new QueueFromTwoStacks();
+
+            foreach (var i in sortedArray)
+            {
+                queue.Enqueue(i);
+            }
+
+            string queueStr = string.Empty;
+            while (true)
+            {
+                int val = queue.Dequeue();
+                if (val == -1)
+                {
+                    break;
+                }
+                queueStr += val + " ";
+            }
+            Console.WriteLine("Queue: {0} \n", queueStr);
 
             Console.ReadKey();
         }
