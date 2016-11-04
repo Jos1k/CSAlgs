@@ -1,0 +1,10 @@
+C:\D_Disk\projects\CSAlgs\Algs\Algs\bin\Debug\Algs.exe.config
+C:\D_Disk\projects\CSAlgs\Algs\Algs\bin\Debug\Algs.exe
+C:\D_Disk\projects\CSAlgs\Algs\Algs\bin\Debug\Algs.pdb
+C:\D_Disk\projects\CSAlgs\Algs\Algs\bin\Debug\Sorting.dll
+C:\D_Disk\projects\CSAlgs\Algs\Algs\bin\Debug\Sorting.pdb
+C:\D_Disk\projects\CSAlgs\Algs\Algs\obj\Debug\Algs.csprojResolveAssemblyReference.cache
+C:\D_Disk\projects\CSAlgs\Algs\Algs\obj\Debug\Algs.exe
+C:\D_Disk\projects\CSAlgs\Algs\Algs\obj\Debug\Algs.pdb
+C:\D_Disk\projects\CSAlgs\Algs\Algs\bin\Debug\Searching.dll
+C:\D_Disk\projects\CSAlgs\Algs\Algs\bin\Debug\Searching.pdb
