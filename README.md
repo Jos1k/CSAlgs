@@ -11,3 +11,6 @@
 ##Misc
 * Create Stack from 2 queues
 * Create Queue from 2 stacks
+
+## Structures
+* Added example of implmenetation one direction Linked List

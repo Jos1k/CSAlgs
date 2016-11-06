@@ -1,4 +1,5 @@
 ﻿using System;
+using DataStructures.LinkedList;
 using Misc;
 using Searching.Algorithms;
 using Sorting.Algorithms;
@@ -62,6 +63,21 @@ namespace Algs
 				stackStr += val + " ";
 			}
 			Console.WriteLine( "Stack: {0} \n", stackStr );
+
+
+			Console.WriteLine( "- - - - - - - - - - - - - - -- - - - - Linked list - - - - - - - - - - - - - - - " );
+
+			LLOneDirection<int> linkedList = new LLOneDirection<int>();
+
+			foreach( var item in sortedArray ) {
+				linkedList.Add( item );
+			}
+
+			Console.WriteLine( "Linked list result: {0} \n", linkedList.ToArray().ArrayToString());
+
+			linkedList.RemoveFirst();
+			linkedList.RemoveLast();
+			Console.WriteLine( "Linked list result (after removing first and last ): {0} \n", linkedList.ToArray().ArrayToString() );
 
             Console.ReadKey();
         }

@@ -6,4 +6,6 @@
 /Algs/Searching/obj
 /Algs/Misc/bin
 /Algs/Misc/obj
-*.suo
+/Algs/DataStructures/bin
+/Algs/DataStructures/obj
+/Algs/*.*.suo
