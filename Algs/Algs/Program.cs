@@ -46,6 +46,23 @@ namespace Algs
             }
             Console.WriteLine("Queue: {0} \n", queueStr);
 
+			Console.WriteLine( "- - - - - - - - - - - - - - -- - - - - Stack from 2 queues - - - - - - - - - - - - -- - " );
+			StackFromTwoQueues stack = new StackFromTwoQueues();
+
+			foreach( var i in sortedArray ) {
+				stack.Push( i );
+			}
+
+			string stackStr = string.Empty;
+			while( true ) {
+				int val = stack.Pop();
+				if( val == -1 ) {
+					break;
+				}
+				stackStr += val + " ";
+			}
+			Console.WriteLine( "Stack: {0} \n", stackStr );
+
             Console.ReadKey();
         }
     }
